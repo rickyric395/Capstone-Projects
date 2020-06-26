@@ -1,2 +1,2 @@
-# Coursera_Capstone
-Coursera ML final project
+# Projects
+Projects involving different types of ML algos such as supervised , unsupervised etc
